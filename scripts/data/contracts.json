@@ -1,0 +1,24 @@
+{
+  "dev": {
+    "meldTestnet": {
+      "Nft721": "0xE6b27619D23E01BC976BCccA1e7345efc9BF8c0A"
+    },
+    "bscTestnet": {
+      "Lock": "0x6Ba4AB17c1A01691d382bAc6d3faFbE62460cB16",
+      "Lock1": "0xD53F6fFb389412Fa59060A780f7D5D51f60123FD",
+      "Counter": "0xf3659C6EfEF6aFA7fF17844e3CBfeC057c15cA66",
+      "TransparentCounter": "0x3b0a77a06c669E4329144eDaeF741479fc8E40E9",
+      "TransparentCounterImplementation": "0xB801Ebf97Da1BEb1BcFfA6faE9c81FC0576102Dc",
+      "UupsCounter": "0x452B0182bd576F8711cD9eFaA702B6D0f445b18E",
+      "UupsCounterImplementation": "0x38e6Bd0b6a00E8b445956B6e25B1802aF9D461f0"
+    },
+    "localnet": {
+      "Lock": "0x9E545E3C0baAB3E08CdfD552C960A1050f373042",
+      "Counter": "0xa82fF9aFd8f496c3d6ac40E2a0F282E47488CFc9",
+      "TransparentCounter": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707",
+      "TransparentCounterImplementation": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+      "UupsCounter": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+      "UupsCounterImplementation": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+    }
+  }
+}
